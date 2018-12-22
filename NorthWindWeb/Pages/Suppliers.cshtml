@@ -1,0 +1,42 @@
+﻿@page
+@model NorthwindWeb.Pages.SuppliersModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<div class="row">
+    <h1 class="display-2">Suppliers</h1>
+    <table class="table">
+        <thead class="thead-inverse">
+            <tr><th>Company Name</th></tr>
+        </thead>
+        <tbody>
+            @foreach (string name in Model.Suppliers)
+            {
+                <tr><td>@name</td></tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="row">
+    
+    <form method="post">
+        <p><span class="badge badge-secondary"> Supplier name: </span></p>
+        <div><input asp-for="Supplier.CompanyName" /></div>
+        <p><span class="badge badge-secondary">Contact Name: </span></p>
+        <div><input asp-for="Supplier.ContactName" /></div>
+        <p><span class="badge badge-secondary">Contact Title:  </span></p>
+        <div><input asp-for="Supplier.ContactTitle" /></div>
+        <p><span class="badge badge-secondary"> Supplier Address: </span></p>
+        <div><input asp-for="Supplier.Address" /></div>
+        <p><span class="badge badge-secondary"> Supplier City:  </span></p>
+        <div><input asp-for="Supplier.City" /></div>
+        <p><span class="badge badge-secondary"> Supplier Region:  </span></p>
+        <div><input asp-for="Supplier.Region" /></div>
+        <p> <span class="badge badge-secondary"> Supplier Postal Code: </span></p>
+        <div><input asp-for="Supplier.PostalCode" /></div>
+        <p> <span class="badge badge-secondary"> Supplier Phone Number: </span></p>
+        <div><input asp-for="Supplier.Phone" /></div>
+        <p> <span class="badge badge-secondary">Supplier Homepage: </span></p>
+        <div><input asp-for="Supplier.HomePage" /></div>
+        <br />
+        <input type="submit" />
+    </form>
+</div>

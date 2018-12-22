@@ -1,0 +1,16 @@
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\obj\Debug\netcoreapp2.0\NorthWindWeb.csprojAssemblyReference.cache
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\obj\Debug\netcoreapp2.0\NorthWindWeb.csproj.CoreCompileInputs.cache
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\obj\Debug\netcoreapp2.0\NorthWindWeb.AssemblyInfoInputs.cache
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\obj\Debug\netcoreapp2.0\NorthWindWeb.AssemblyInfo.cs
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\bin\Debug\netcoreapp2.0\NorthWindWeb.deps.json
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\bin\Debug\netcoreapp2.0\NorthWindWeb.runtimeconfig.json
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\bin\Debug\netcoreapp2.0\NorthWindWeb.runtimeconfig.dev.json
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\bin\Debug\netcoreapp2.0\NorthWindWeb.dll
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\bin\Debug\netcoreapp2.0\NorthWindWeb.pdb
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\bin\Debug\netcoreapp2.0\NorthwindContextLib.dll
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\bin\Debug\netcoreapp2.0\NorthwindEntitiesLib.dll
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\bin\Debug\netcoreapp2.0\NorthwindContextLib.pdb
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\bin\Debug\netcoreapp2.0\NorthwindEntitiesLib.pdb
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\obj\Debug\netcoreapp2.0\NorthWindWeb.csproj.CopyComplete
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\obj\Debug\netcoreapp2.0\NorthWindWeb.dll
+C:\Users\bdham\Desktop\IUPUI 2018\Programming C#\NorthWindWeb\NorthWindWeb\obj\Debug\netcoreapp2.0\NorthWindWeb.pdb
